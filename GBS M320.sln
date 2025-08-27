@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBS M320", "GBS M320\GBS M3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AufgabeFunktionen", "AufgabeFunktionen\AufgabeFunktionen.csproj", "{DB34BECA-02A0-4C70-9A37-8E0FBAD69C50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", "{B54C544B-0326-465A-806E-7F0D3E556224}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rechteck", "Rechteck\Rechteck.csproj", "{8618F5F1-07EF-4D11-A9FA-380C08B8DC02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{DB34BECA-02A0-4C70-9A37-8E0FBAD69C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB34BECA-02A0-4C70-9A37-8E0FBAD69C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB34BECA-02A0-4C70-9A37-8E0FBAD69C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B54C544B-0326-465A-806E-7F0D3E556224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54C544B-0326-465A-806E-7F0D3E556224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54C544B-0326-465A-806E-7F0D3E556224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54C544B-0326-465A-806E-7F0D3E556224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8618F5F1-07EF-4D11-A9FA-380C08B8DC02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8618F5F1-07EF-4D11-A9FA-380C08B8DC02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8618F5F1-07EF-4D11-A9FA-380C08B8DC02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8618F5F1-07EF-4D11-A9FA-380C08B8DC02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
