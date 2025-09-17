@@ -10,10 +10,7 @@ public record Rechteck
 
     public const int Winkelsumme = 360;
 
-    public double Umfang
-    {
-        get => 2 * (Breite + Länge);
-    }
+    public double Umfang => 2 * (Breite + Länge);
 
     public record Punkt
     {
